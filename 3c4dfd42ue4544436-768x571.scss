@@ -1,0 +1,47 @@
+/* Coolors Exported Palette - https://coolors.co/201f05-398816-01c600-00b900-034004 */
+
+/* CSS HEX */
+--pine-tree: #201F05ff;
+--india-green: #398816ff;
+--lime-green: #01C600ff;
+--yellow-green-color-wheel: #00B900ff;
+--forest-green-traditional: #034004ff;
+
+/* CSS HSL */
+--pine-tree: hsla(58, 73%, 7%, 1);
+--india-green: hsla(102, 72%, 31%, 1);
+--lime-green: hsla(120, 100%, 39%, 1);
+--yellow-green-color-wheel: hsla(120, 100%, 36%, 1);
+--forest-green-traditional: hsla(121, 91%, 13%, 1);
+
+/* SCSS HEX */
+$pine-tree: #201F05ff;
+$india-green: #398816ff;
+$lime-green: #01C600ff;
+$yellow-green-color-wheel: #00B900ff;
+$forest-green-traditional: #034004ff;
+
+/* SCSS HSL */
+$pine-tree: hsla(58, 73%, 7%, 1);
+$india-green: hsla(102, 72%, 31%, 1);
+$lime-green: hsla(120, 100%, 39%, 1);
+$yellow-green-color-wheel: hsla(120, 100%, 36%, 1);
+$forest-green-traditional: hsla(121, 91%, 13%, 1);
+
+/* SCSS RGB */
+$pine-tree: rgba(32, 31, 5, 1);
+$india-green: rgba(57, 136, 22, 1);
+$lime-green: rgba(1, 198, 0, 1);
+$yellow-green-color-wheel: rgba(0, 185, 0, 1);
+$forest-green-traditional: rgba(3, 64, 4, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #201F05ff, #398816ff, #01C600ff, #00B900ff, #034004ff);
+$gradient-right: linear-gradient(90deg, #201F05ff, #398816ff, #01C600ff, #00B900ff, #034004ff);
+$gradient-bottom: linear-gradient(180deg, #201F05ff, #398816ff, #01C600ff, #00B900ff, #034004ff);
+$gradient-left: linear-gradient(270deg, #201F05ff, #398816ff, #01C600ff, #00B900ff, #034004ff);
+$gradient-top-right: linear-gradient(45deg, #201F05ff, #398816ff, #01C600ff, #00B900ff, #034004ff);
+$gradient-bottom-right: linear-gradient(135deg, #201F05ff, #398816ff, #01C600ff, #00B900ff, #034004ff);
+$gradient-top-left: linear-gradient(225deg, #201F05ff, #398816ff, #01C600ff, #00B900ff, #034004ff);
+$gradient-bottom-left: linear-gradient(315deg, #201F05ff, #398816ff, #01C600ff, #00B900ff, #034004ff);
+$gradient-radial: radial-gradient(#201F05ff, #398816ff, #01C600ff, #00B900ff, #034004ff);
